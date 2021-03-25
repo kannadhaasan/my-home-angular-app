@@ -1,1 +1,43 @@
-<p>property-list works!</p>
+
+<div fxLayout="row wrap" fxLayoutGap="32px" fxLayoutAlign="flex-start" fxLayoutGap="20px grid">
+  
+  <div *ngFor="let property of dataSource">
+    <section class="darts-dark-theme">
+      <mat-card class="property-card" style="width: 400px;">
+        <mat-card-header>
+          <div mat-card-avatar [ngStyle]="{'background-image': 'url(' + property.groupLogoUrl + ')', 'background-size': 'contain' }"></div>
+          <mat-card-title>{{ property.propertyType }}</mat-card-title>
+          <mat-card-subtitle>
+            <div>
+              <mat-icon class="material-icons"> euro_symbol</mat-icon>
+              <span class="aligntext1">{{property.price}}</span>
+            </div>
+
+          </mat-card-subtitle>
+        </mat-card-header>
+
+        <img height="200px" mat-card-image src="{{property.mainPhoto}}" alt="Photo">
+
+        <mat-card-content>
+          <div>
+            <mat-icon class="material-icons"> location_on</mat-icon>
+            <span class="aligntext">{{property.displayAddress}}</span>
+          </div>
+          <div>
+            <mat-icon class="material-icons"> bedroom_parent</mat-icon>
+            <span class="aligntext">{{property.bedsString}}</span>
+          </div>
+          <div>
+            <mat-icon class="material-icons"> bathtub</mat-icon>
+            <span class="aligntext">{{property.bathString}}</span>
+          </div>
+        </mat-card-content>
+
+        <mat-card-actions>
+          <button mat-button>VIEW GALLERY</button>
+          <button mat-button>VIEW BROUCHURE</button>
+        </mat-card-actions>
+      </mat-card>
+    </section>
+  </div>
+</div>

@@ -1,66 +1,67 @@
 {	
 	"SearchResults": [
 	   {
-		  "PropertyId":4292232,
-		  "GroupLogoUrl":"https://photosa.propertyimages.ie/groups/9/0/4/6409/logo.jpg",
-		  "BedsString":"2 beds",
-		  "Price":395000,
-		  "SizeStringMeters":52.95,
-		  "DisplayAddress":"Apt. 16 The Northumberlands, Off Lower Mount Street, Dublin 2",
-		  "PropertyType":"Apartment",
-		  "BathString":"4 baths",
-		  "BerRating":"D2",
-		  "MainPhoto":"https://photosa.propertyimages.ie/media/2/3/2/4292232/38e98b8e-645f-4adf-8e57-f927e5769840_l.jpg",
-		  "Photos":[
-			 "https://photosa.propertyimages.ie/media/2/3/2/4292232/38e98b8e-645f-4adf-8e57-f927e5769840_l.jpg",
-			 "https://photosa.propertyimages.ie/media/2/3/2/4292232/e0c4c2c8-6a61-4fda-b5a8-59edc32060b6_l.jpg",
-			 "https://photosa.propertyimages.ie/media/2/3/2/4292232/b5ce3372-d71c-4897-91dc7c5b4ce21c17_l.jpg"
+		  "propertyId":4292232,
+		  "groupLogoUrl":"https://i.etsystatic.com/6185227/r/il/66d6ff/2075712797/il_570xN.2075712797_o5n9.jpg",
+		  "bedsString":"2 beds",
+		  "price":395000,
+		  "sizeStringMeters":52.95,
+		  "displayAddress":"Apt. 16 The Northumberlands, Off Lower Mount Street, Dublin 2",
+		  "propertyType":"Apartment",
+		  "bathString":"4 baths",
+		  "berRating":"D2",
+		  "mainPhoto":"https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-hero.jpg",
+		  "photos":[
+			 "https://www.google.com/url?sa=i&url=https%3A%2F%2Farchello.com%2Fstory%2F52325%2Fattachments%2Fphotos-videos%2F3&psig=AOvVaw1RoWLcbzqDZVS9WYdRBtmJ&ust=1616677208480000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiC-Ir-yO8CFQAAAAAdAAAAABAD",
+			 "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.idealhome.co.uk%2Fhouse-tours&psig=AOvVaw1RoWLcbzqDZVS9WYdRBtmJ&ust=1616677208480000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiC-Ir-yO8CFQAAAAAdAAAAABAI",
+			 "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.idealhome.co.uk%2Fhouse-tours&psig=AOvVaw1RoWLcbzqDZVS9WYdRBtmJ&ust=1616677208480000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiC-Ir-yO8CFQAAAAAdAAAAABAI"
 		  ]
 	   },
 	   {
-		  "PropertyId":4229499,
-		  "GroupLogoUrl":"https://photosa.propertyimages.ie/groups/9/2/6/283629/logo.jpg",
-		  "BedsString":"5 beds",
-		  "Price":420000,
-		  "SizeStringMeters":98,
-		  "DisplayAddress":"Alleen, Donohill, Tipperary",
-		  "PropertyType":"Detached House",
-		  "BathString":"4 baths",
-		  "BerRating":"B2",
-		  "MainPhoto":"https://photosa.propertyimages.ie/media/9/9/4/4229499/aae25e08-31b0-465b-ba35-498d78f6b5c9_l.jpg",
-		  "Photos":[
+		  "propertyId":4229499,
+		  "groupLogoUrl":"https://www.northernproperty.com/201126115640/style/logos/logo.png",
+		  "bedsString":"5 beds",
+		  "price":420000,
+		  "sizeStringMeters":98,
+		  "displayAddress":"Alleen, Donohill, Tipperary",
+		  "propertyType":"Detached House",
+		  "bathString":"4 baths",
+		  "berRating":"B2",
+		  "mainPhoto":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/suburban-house-royalty-free-image-1584972559.jpg?crop=1.00xw:0.752xh;0,0.120xh&resize=1200:*",
+		  "photos":[
 			 "https://photosa.propertyimages.ie/media/9/9/4/4229499/aae25e08-31b0-465b-ba35-498d78f6b5c9_l.jpg",
 			 "https://photosa.propertyimages.ie/media/9/9/4/4229499/7f983103-2529-425a-905b617b23bfa0f7_l.jpg",
 			 "https://photosa.propertyimages.ie/media/9/9/4/4229499/4470fb1c-c301-4b1c-8bfae1c85a5d8fbc_l.jpg"
 		  ]
 	   },
 	   {
-		  "PropertyId":4301249,
-		  "GroupLogoUrl":"https://photosa.propertyimages.ie/groups/3/1/4/256413/logo.jpg",
-		  "BedsString":"2 beds",
-		  "Price":99000,
-		  "DisplayAddress":"20 Gratton Street, Gorey, Wexford",
-		  "PropertyType":"Terraced House",
-		  "BathString":"1 bath",
-		  "BerRating":"G",
-		  "MainPhoto":"https://photosa.propertyimages.ie/media/9/4/2/4301249/0e9bc081-ab16-4885-bddbf33678432a17_l.jpg",
-		  "Photos":[
+		  "propertyId":4301249,
+		  "groupLogoUrl":"https://www.premierpropertyni.com/style/social-logo.jpg",
+		  "bedsString":"2 beds",
+		  "price":99000,
+		  "sizeStringMeters":238.4,
+		  "displayAddress":"20 Gratton Street, Gorey, Wexford",
+		  "propertyType":"Terraced House",
+		  "bathString":"1 bath",
+		  "berRating":"G",
+		  "mainPhoto":"https://image.cnbcfm.com/api/v1/image/104548349-Large_house_suburb.jpg?v=1532563813&w=1600&h=900",
+		  "photos":[
 			 "https://photosa.propertyimages.ie/media/9/4/2/4301249/0e9bc081-ab16-4885-bddbf33678432a17_l.jpg",
 			 "https://photosa.propertyimages.ie/media/9/4/2/4301249/2e03ba2b-471d-4f93-a8ad6bfecd2fd35b_l.jpg"
 		  ]
 	   },
 	   {
-		  "PropertyId":4301247,
-		  "GroupLogoUrl":"https://photosa.propertyimages.ie/groups/0/5/6/5650/logo.jpg",
-		  "BedsString":"4 beds",
-		  "Price":550000,
-		  "SizeStringMeters":238.4,
-		  "DisplayAddress":"Cappagh, Inistioge, Co Kilkenny, R95 E642",
-		  "PropertyType":"Detached House",
-		  "BathString":"4 baths",
-		  "BerRating":"C1",
-		  "MainPhoto":"https://photosa.propertyimages.ie/media/7/4/2/4301247/7ff064ce-07c2-4a34-8765-d031b7a28295_l.jpg",
-		  "Photos":[
+		  "propertyId":4301247,
+		  "groupLogoUrl":"https://b.dmlimg.com/N2VjY2VmOTMwZWExOWM5N2U1NDBjZjQzZDhhNTYwZDA1s56pZeHeyW-r7dtr0gu8aHR0cDovL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL21lZGlhbWFzdGVyLXMzZXUvMS82LzE2OWUxOWVmOWVjYTFkOGU5MGY5ZTNjNDQ0YmEwMmZlLmpwZ3x8fDcwMGx8fHx8fHx8.jpg",
+		  "bedsString":"4 beds",
+		  "price":550000,
+		  "sizeStringMeters":238.4,
+		  "displayAddress":"Cappagh, Inistioge, Co Kilkenny, R95 E642",
+		  "propertyType":"Detached House",
+		  "bathString":"4 baths",
+		  "berRating":"C1",
+		  "mainPhoto":"https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1026205392%2F0x0.jpg",
+		  "photos":[
 			 "https://photosa.propertyimages.ie/media/7/4/2/4301247/7ff064ce-07c2-4a34-8765-d031b7a28295_l.jpg",
 			 "https://photosa.propertyimages.ie/media/7/4/2/4301247/ecd5bd19-e956-4c04-9932-0cf0112bb2f6_l.jpg",
 			 "https://photosa.propertyimages.ie/media/7/4/2/4301247/94b223ea-a365-4646-966d90743344a5d0_l.jpg",
@@ -68,16 +69,16 @@
 		  ]
 	   },
 	   {
-		  "PropertyId":4301246,
-		  "GroupLogoUrl":"https://photosa.propertyimages.ie/groups/8/6/9/8968/logo.jpg",
-		  "BedsString":"3 beds",
-		  "Price":135000,
+		  "propertyId":4301246,
+		  "groupLogoUrl":"https://kellywalsh.ie/wp-content/uploads/2019/04/REGULATED-BY-RICS-LOGO-WHITE-300x182.jpg",
+		  "bedsString":"3 beds",
+		  "price":135000,
 		  "SizeStringFeet":1010,
-		  "DisplayAddress":"4 Rices Street, Dungarvan, Waterford",
-		  "PropertyType":"End of Terrace House",
-		  "BathString":"1 bath",
-		  "MainPhoto":"https://photosa.propertyimages.ie/media/6/4/2/4301246/90ef0a16-59e7-410c-b688-f45361fc00df_l.jpg",
-		  "Photos":[
+		  "displayAddress":"4 Rices Street, Dungarvan, Waterford",
+		  "propertyType":"End of Terrace House",
+		  "bathString":"1 bath",
+		  "mainPhoto":"https://www.investopedia.com/thmb/-vXbA11haoF5XnwDr_DAXP2Bj2I=/380x254/filters:fill(auto,1)/8_house_hunting_mistakes-5bfc3cc3c9e77c002634c244.jpg",
+		  "photos":[
 			 "https://photosa.propertyimages.ie/media/6/4/2/4301246/90ef0a16-59e7-410c-b688-f45361fc00df_l.jpg",
 			 "https://photosa.propertyimages.ie/media/6/4/2/4301246/2066a03f-d26a-4ceb-92ddd0247556c803_l.jpg",
 			 "https://photosa.propertyimages.ie/media/6/4/2/4301246/a28bd769-e544-468f-8fa6-e590a3ed77c0_l.jpg",
@@ -86,16 +87,16 @@
 		  ]
 	   },
 	   {
-		  "PropertyId":4301245,
-		  "GroupLogoUrl":"https://photosa.propertyimages.ie/groups/9/9/5/309599/logo.jpg",
-		  "BedsString":"3 beds",
-		  "Price":"POA",
-		  "SizeStringMeters":109,
-		  "DisplayAddress":"Cloghan Road, Shannonbridge, Offaly",
-		  "PropertyType":"Bungalow",
-		  "BathString":"2 baths",
-		  "MainPhoto":"https://photosa.propertyimages.ie/media/5/4/2/4301245/a8fc46c4-6676-4e82-89cf74c1736ce441_l.jpg",
-		  "Photos":[
+		  "propertyId":4301245,
+		  "groupLogoUrl":"https://www.poolercountry.com/200813040155/style/logos/logo-header-02.jpg",
+		  "bedsString":"3 beds",
+		  "price":"POA",
+		  "sizeStringMeters":109,
+		  "displayAddress":"Cloghan Road, Shannonbridge, Offaly",
+		  "propertyType":"Bungalow",
+		  "bathString":"2 baths",
+		  "mainPhoto":"https://cdn.vox-cdn.com/thumbor/qdAS_9_DhZVAmWM1nyEO_X_JYto=/0x329:4000x2329/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/19961033/HOUSE_iStock_153139903.jpg",
+		  "photos":[
 			 "https://photosa.propertyimages.ie/media/5/4/2/4301245/a8fc46c4-6676-4e82-89cf74c1736ce441_l.jpg",
 			 "https://photosa.propertyimages.ie/media/5/4/2/4301245/c6756ace-04b6-4701-b80bbb74f9b985de_l.jpg",
 			 "https://photosa.propertyimages.ie/media/5/4/2/4301245/7976ee5f-3dc0-4874-833dc169cd0e2ef9_l.jpg",
@@ -104,16 +105,16 @@
 		  ]
 	   },
 	   {
-		  "PropertyId":4284885,
-		  "GroupLogoUrl":"https://photosa.propertyimages.ie/groups/3/1/4/256413/logo.jpg",
-		  "BedsString":"4 beds",
-		  "Price":325000,
-		  "DisplayAddress":"45 Ardmore, Gorey, Wexford",
-		  "PropertyType":"Detached House",
-		  "BathString":"1 bath",
-		  "BerRating":"D1",
-		  "MainPhoto":"https://photosa.propertyimages.ie/media/5/8/8/4284885/f85794ff-5714-4247-91a0-08eed0853a46_l.jpg",
-		  "Photos":[
+		  "propertyId":4284885,
+		  "groupLogoUrl":"https://images.squarespace-cdn.com/content/v1/544fbb0ee4b074d07a5a9ae7/1585667899451-E3WD9ONVTF10K10R6RA9/ke17ZwdGBToddI8pDm48kNMIMLR5HyT8T-Jl3SGhJah7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mhydAgiKdIfeAoxVgE7c7q4sG_vuJrMOZ7XoXilib1sTJeOOQgxJjPHQIyFj-oA0A/Ohana+Tiki+Bar+FULL+COLOUR+DARK.jpg?format=original",
+		  "bedsString":"4 beds",
+		  "price":325000,
+		  "displayAddress":"45 Ardmore, Gorey, Wexford",
+		  "propertyType":"Detached House",
+		  "bathString":"1 bath",
+		  "berRating":"D1",
+		  "mainPhoto":"https://cdn.vox-cdn.com/thumbor/CuM4HypZ7G_UhyPNSLYOzRm263s=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19608364/shutterstock_1071603272.jpg",
+		  "photos":[
 			 "https://photosa.propertyimages.ie/media/5/8/8/4284885/f85794ff-5714-4247-91a0-08eed0853a46_l.jpg",
 			 "https://photosa.propertyimages.ie/media/5/8/8/4284885/1e2309b8-8fa3-4315-bf20-488d5532856b_l.jpg",
 			 "https://photosa.propertyimages.ie/media/5/8/8/4284885/394f3834-3ccd-4185-9eeeaf6686004801_l.jpg",
@@ -121,15 +122,15 @@
 		  ]
 	   },
 	   {
-		  "PropertyId":4301244,
-		  "GroupLogoUrl":"https://photosa.propertyimages.ie/groups/7/0/1/259107/logo.jpg",
-		  "BedsString":"3 beds",
-		  "Price":200000,
-		  "DisplayAddress":"21 Derryounce, Portarlington, Co. Laois",
-		  "PropertyType":"End of Terrace House",
-		  "BathString":"2 baths",
-		  "MainPhoto":"https://photosa.propertyimages.ie/media/4/4/2/4301244/dcacf01c-089b-4d54-b452-eb0d9cb9de4d_l.jpg",
-		  "Photos":[
+		  "propertyId":4301244,
+		  "groupLogoUrl":"https://uploads-ssl.webflow.com/5fc58a15afc7a70f1ba38269/5fc58a15afc7a7f26da384c8_Partners-Logos_v02-3_Meet%20In%20Ireland-min.png",
+		  "bedsString":"3 beds",
+		  "price":200000,
+		  "displayAddress":"21 Derryounce, Portarlington, Co. Laois",
+		  "propertyType":"End of Terrace House",
+		  "bathString":"2 baths",
+		  "mainPhoto":"https://image.cnbcfm.com/api/v1/image/104559560-Jackson_Mississippi.jpg?v=1529475550&w=720&h=405",
+		  "photos":[
 			 "https://photosa.propertyimages.ie/media/4/4/2/4301244/dcacf01c-089b-4d54-b452-eb0d9cb9de4d_l.jpg",
 			 "https://photosa.propertyimages.ie/media/4/4/2/4301244/e60480c8-a834-41ee-8250-9d2c97ba249e_l.jpg",
 			 "https://photos-a.propertyimages.ie/media/8/9/2/3851298/44915955-f480-4f3d-8e42-84f12ebfbfde_l.jpg",
@@ -138,14 +139,15 @@
 		  ]
 	   },
 	   {
-		  "PropertyId":4301243,
-		  "GroupLogoUrl":"https://photosa.propertyimages.ie/groups/7/0/1/259107/logo.jpg",
-		  "BedsString":"3 beds",
-		  "Price":260000,
-		  "DisplayAddress":"22 Derryounce, Portarlington, Co. Laois",
-		  "PropertyType":"Terraced House",
-		  "MainPhoto":"https://photosa.propertyimages.ie/media/3/4/2/4301243/4453564d-ffa4-4e58-af73-04104692e3cd_l.jpg",
-		  "Photos":[
+		  "propertyId":4301243,
+		  "groupLogoUrl":"https://theme.zdassets.com/theme_assets/1031898/5592e86d30167febd1fedaa48b25ea3380e30fb4.png",
+		  "bedsString":"3 beds",
+		  "price":260000,
+		  "displayAddress":"22 Derryounce, Portarlington, Co. Laois",
+		  "propertyType":"Terraced House",
+		  "bathString":"2 baths",
+		  "mainPhoto":"https://im-media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2019-11/IMG_5577.JPG?itok=Vl0aR9EE",
+		  "photos":[
 			 "https://photosa.propertyimages.ie/media/3/4/2/4301243/4453564d-ffa4-4e58-af73-04104692e3cd_l.jpg",
 			 "https://photos-a.propertyimages.ie/media/8/9/2/3851298/9991fa79-d54d-4c0d-a753-23838287e215_l.jpg",
 			 "https://photos-a.propertyimages.ie/media/8/9/2/3851298/9b15a341-5698-4d8a-9849-a8d2df6f4bef_l.jpg",
@@ -153,14 +155,15 @@
 		  ]
 	   },
 	   {
-		  "PropertyId":4301242,
-		  "GroupLogoUrl":"https://photosa.propertyimages.ie/groups/7/0/1/259107/logo.jpg",
-		  "BedsString":"3 beds",
-		  "Price":200000,
-		  "DisplayAddress":"23 Derryounce, Portarlington, Co. Laois",
-		  "PropertyType":"Terraced House",
-		  "MainPhoto":"https://photosa.propertyimages.ie/media/2/4/2/4301242/4c9ea054-1865-4bd3-901a6ad05a79fa7e_l.jpg",
-		  "Photos":[
+		  "propertyId":4301242,
+		  "groupLogoUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSafMR0chDQMyWpcNFpcjblylritlbnHLxN7w&usqp=CAU",
+		  "bedsString":"3 beds",
+		  "price":200000,
+		  "displayAddress":"23 Derryounce, Portarlington, Co. Laois",
+		  "propertyType":"Terraced House",
+		  "bathString":"3 baths",
+		  "mainPhoto":"https://cdn.vox-cdn.com/thumbor/XUdUk_rKJ8WDTd0zksnnicYDwbY=/0x0:3760x2500/1200x800/filters:focal(1580x950:2180x1550)/cdn.vox-cdn.com/uploads/chorus_image/image/65135516/shutterstock_349464740.0.jpg",
+		  "photos":[
 			 "https://photosa.propertyimages.ie/media/2/4/2/4301242/4c9ea054-1865-4bd3-901a6ad05a79fa7e_l.jpg",
 			 "https://photosa.propertyimages.ie/media/2/4/2/4301242/f08c8c5d-731d-4be3-a78ee3501d1214d6_l.jpg"
 		  ]

@@ -1,33 +1,30 @@
+
 export class Properties {
-    public PropertyId: number;
-    public GroupLogoUrl: string;
-    public BedsString: string;
-    public Price: number;
-    public SizeStringMeters: number;
-    public DisplayAddress: string ;
-    public PropertyType: string;
-    public BathString: string;
-    public BerRating: string;
-    public MainPhoto: string;
-    public Photos: Array<string>;
+    public propertyId: number;
+    public groupLogoUrl: string;
+    public bedsString: string;
+    public price: number;
+    public sizeStringMeters: number;
+    public displayAddress: string ;
+    public propertyType: string;
+    public bathString: string;
+    public berRating: string;
+    public mainPhoto:  string;
+    public photos: Array<string>;
 
     constructor (item?: Properties | any ){
         if(item){
-            this.PropertyId = item.PropertyId;
-            this.GroupLogoUrl = item.GroupLogoUrl;
-            this.BedsString = item.BedsString;
-            this.Price = item.Price;
-            this.SizeStringMeters = item.SizeStringMeters;
-            this.DisplayAddress = item.DisplayAddress;
-            this.PropertyType = item.PropertyType;
-            this.BathString = item.BathString;
-            this.BerRating = item.BerRating;
-            this.MainPhoto = item.MainPhoto;
-            this.Photos = item.Photos;
-
+            this.propertyId = item.propertyId;
+            this.groupLogoUrl = item.groupLogoUrl;
+            this.bedsString = item.bedsString;
+            this.price = item.price;
+            this.sizeStringMeters = item.sizeStringMeters;
+            this.displayAddress = item.displayAddress;
+            this.propertyType = item.propertyType;
+            this.bathString = item.bathString;
+            this.berRating = item.berRating;
+            this.mainPhoto = item.mainPhoto;
+            this.photos = item.photos;
         }
-    }
-
-
-    
+    }    
 }

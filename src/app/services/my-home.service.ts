@@ -16,14 +16,7 @@ export class MyHomeService {
 
   public getProperties(): Observable<Array<Properties>>{
     const url = environment.myHomeProperties;
-    let propertyLists: Array<Properties> = null;
-
-    if(this.propertyList){
-      return Observable.create(observer => {
-          observer.next(this.propertyList);
-          observer.complete();
-      });
-    } else {
+    let propertyLists: Array<Properties> = new Array<Properties>();
       return Observable.create(observer => {
         this.http.get(
           url, {observe: 'body'}
@@ -43,5 +36,4 @@ export class MyHomeService {
           );
       });
     }
-  }
 }

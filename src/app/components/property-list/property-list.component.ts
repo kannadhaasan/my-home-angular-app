@@ -8,7 +8,10 @@ import { Properties } from '../../types/properties';
   styleUrls: ['./property-list.component.scss']
 })
 export class PropertyListComponent implements OnInit {
-public dataSource: Array<Properties> = [];
+public dataSource: Array<Properties> = new Array<Properties>();
+public cardDistribution =  100/3 + '%';
+public filterData: string;
+
   constructor(public myHomeService: MyHomeService,
               @Optional() public cdRef: ChangeDetectorRef
   ) { }
@@ -22,7 +25,7 @@ public dataSource: Array<Properties> = [];
       (result: Array<Properties>) => {
         this.dataSource = result;
         console.log('display results', this.dataSource);
-        
+        console.log('check', this.dataSource[1].bathString);     
       },
       error => {
         console.error('Sorry, something went wrong. Error in loading Properties.');
@@ -30,5 +33,10 @@ public dataSource: Array<Properties> = [];
       } 
     );
   }
+
+  applyFilter(event){
+    
+  }
+
 
 }
