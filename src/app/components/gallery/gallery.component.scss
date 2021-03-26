@@ -1,0 +1,11 @@
+.image-container{
+    align-items: center;
+}
+.images:nth-of-type(3n+1) {
+    clear: left;
+}
+.images {
+    display:inline-block;
+    margin:5px 20px;
+    padding:5px;
+}

@@ -18,15 +18,18 @@ import { MatButtonModule} from '@angular/material/button';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatIconModule } from '@angular/material/icon';
 import { ToolbarComponent } from './components/toolbar/toolbar.component';
-import { MatFormFieldModule } from '@angular/material/form-field'
-
+import { MatFormFieldModule } from '@angular/material/form-field';
+import { MatSelectModule } from '@angular/material/select';
+import { BrochureComponent } from './components/brochure/brochure.component';
+import { MatInputModule } from '@angular/material/input';
 
 @NgModule({
   declarations: [
     AppComponent,
     PropertyListComponent,
     GalleryComponent,
-    ToolbarComponent
+    ToolbarComponent,
+    BrochureComponent
   ],
   imports: [
     BrowserModule,
@@ -38,7 +41,9 @@ import { MatFormFieldModule } from '@angular/material/form-field'
     MatToolbarModule,
     MatIconModule,
     FlexLayoutModule,
-    MatFormFieldModule
+    MatFormFieldModule,
+    MatSelectModule,
+    MatInputModule
   ],
   providers: [
     

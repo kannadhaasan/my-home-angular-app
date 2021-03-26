@@ -1,11 +1,29 @@
+<div>
+  <span class="input-elements">
+    <mat-form-field >
+      <mat-label>SORT BY PRICE</mat-label>
+      <mat-select (selectionChange)="sortProperties($event)">
+        <mat-option value="low">Low to High</mat-option>
+        <mat-option value="high">High to Low</mat-option>
+      </mat-select>
+    </mat-form-field>
+  </span>
+  <span class="input-elements">
+    <mat-form-field   >
+      <input matInput placeholder="FILTER BY MAX PRICE" style="color: #424242;"  value="" (keyup)="applyFilter($event)">
+    </mat-form-field>
+  </span>
+
+</div>
 
 <div fxLayout="row wrap" fxLayoutGap="32px" fxLayoutAlign="flex-start" fxLayoutGap="20px grid">
-  
+
   <div *ngFor="let property of dataSource">
     <section class="darts-dark-theme">
       <mat-card class="property-card" style="width: 400px;">
         <mat-card-header>
-          <div mat-card-avatar [ngStyle]="{'background-image': 'url(' + property.groupLogoUrl + ')', 'background-size': 'contain' }"></div>
+          <div mat-card-avatar
+            [ngStyle]="{'background-image': 'url(' + property.groupLogoUrl + ')', 'background-size': 'contain' }"></div>
           <mat-card-title>{{ property.propertyType }}</mat-card-title>
           <mat-card-subtitle>
             <div>
@@ -34,8 +52,9 @@
         </mat-card-content>
 
         <mat-card-actions>
-          <button mat-button>VIEW GALLERY</button>
-          <button mat-button>VIEW BROUCHURE</button>
+       <!--   <button mat-button [routerLink]="[ '/property-gallery', property.propertyId]">VIEW GALLERY</button>-->
+       <button mat-button (click)="navigateToGallery(property.propertyId)" >VIEW GALLERY</button>
+          <button mat-button (click)="navigateToBrochure(property)">VIEW BROCHURE</button>
         </mat-card-actions>
       </mat-card>
     </section>

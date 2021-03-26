@@ -1,1 +1,7 @@
-<p>gallery works!</p>
+<div class="image-container">
+        <div class="images"  *ngFor="let gallery of dataSource"  >
+            <img style="max-width: 300px; max-height: 300px; background-size: cover;" mat-card-image src="{{gallery}}" alt="could not display the image">
+        </div>
+    </div>
+
+<button mat-button routerLink="/property-list" style="background-color: black; color: white;">BACK TO HOME</button>
