@@ -17,8 +17,7 @@ export class PropertyListComponent implements OnInit {
 
   constructor(public myHomeService: MyHomeService,
     private router: Router,
-    private route: ActivatedRoute,
-    @Optional() public cdRef: ChangeDetectorRef
+    private route: ActivatedRoute
   ) { }
 
   ngOnInit(): void {

@@ -5,19 +5,18 @@ import { GalleryComponent } from './gallery.component';
 describe('GalleryComponent', () => {
   let component: GalleryComponent;
   let fixture: ComponentFixture<GalleryComponent>;
+  const myHomeServiceSpy: any = jasmine.createSpy('myHomeService');
+  const routerSpy: any = jasmine.createSpy('router');
+  const routeSpy: any = jasmine.createSpy('route');
 
   beforeEach(async () => {
-    await TestBed.configureTestingModule({
-      declarations: [ GalleryComponent ]
-    })
-    .compileComponents();
+    component = new GalleryComponent(
+      myHomeServiceSpy,
+      routerSpy,
+      routeSpy
+    )   
   });
 
-  beforeEach(() => {
-    fixture = TestBed.createComponent(GalleryComponent);
-    component = fixture.componentInstance;
-    fixture.detectChanges();
-  });
 
   it('should create', () => {
     expect(component).toBeTruthy();

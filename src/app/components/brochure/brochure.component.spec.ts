@@ -5,20 +5,16 @@ import { BrochureComponent } from './brochure.component';
 describe('BrochureComponent', () => {
   let component: BrochureComponent;
   let fixture: ComponentFixture<BrochureComponent>;
+  const routerSpy: any = jasmine.createSpy('router');
+  const routeSpy: any = jasmine.createSpy('route');
 
   beforeEach(async () => {
-    await TestBed.configureTestingModule({
-      declarations: [ BrochureComponent ]
-    })
-    .compileComponents();
+   component = new BrochureComponent(
+    routerSpy,
+    routeSpy
+   )
   });
-
-  beforeEach(() => {
-    fixture = TestBed.createComponent(BrochureComponent);
-    component = fixture.componentInstance;
-    fixture.detectChanges();
-  });
-
+  
   it('should create', () => {
     expect(component).toBeTruthy();
   });
