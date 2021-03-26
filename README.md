@@ -10,3 +10,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 5. Open command promp and direct to project root folder and then to assets. (C:\Project\MyHome\my-home\src\assets)
 6. run json server in properties.json file - "json-server properties.json"
 7. Now run "npm start"
+8. Modified test files executable without any errors. Run test "npm test"
